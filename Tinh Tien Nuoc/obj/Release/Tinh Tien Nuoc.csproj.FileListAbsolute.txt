@@ -1,0 +1,152 @@
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe.config
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.pdb
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.Properties.Resources.resources
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.exe
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.pdb
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.xml
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.CSharp.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.DataSetExtensions.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Deployment.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Drawing.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Web.Services.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Windows.Forms.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.Linq.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.xml
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Shared.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+F:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmHistory.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe.config
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.exe
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.pdb
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.pdb
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.ReportSource.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Shared.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.CSharp.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.DataSetExtensions.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Deployment.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Drawing.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Web.Services.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Windows.Forms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.Linq.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.xml
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.xml
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmHistory.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.Properties.Resources.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.Tinh Tien Nuoc.exe.config
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe.config
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.exe
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.pdb
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.pdb
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Shared.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.CSharp.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.DataSetExtensions.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Deployment.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Drawing.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Web.Services.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Windows.Forms.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.Linq.dll
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.xml
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.Tinh Tien Nuoc.exe.config
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmHistory.resources
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.Properties.Resources.resources
+D:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe.config
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.exe
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.pdb
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.pdb
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Shared.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.CSharp.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.DataSetExtensions.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Deployment.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Drawing.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Web.Services.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Windows.Forms.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.Linq.dll
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.xml
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.Tinh Tien Nuoc.exe.config
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmHistory.resources
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.Properties.Resources.resources
+C:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe.config
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.exe
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.pdb
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.exe
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Tinh Tien Nuoc.pdb
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.CSharp.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Data.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Deployment.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Drawing.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Web.Services.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Windows.Forms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Xml.Linq.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Release\System.Net.Http.xml
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.Tinh Tien Nuoc.exe.config
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmHistory.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh_Tien_Nuoc.Properties.Resources.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Release\Tinh Tien Nuoc.csproj.GenerateResource.Cache

@@ -1,0 +1,214 @@
+c:\users\ngoc tam tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Form1.resources
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+C:\Users\Ngoc Tam Tran\documents\visual studio 2015\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Shared.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.CSharp.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Deployment.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Drawing.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Web.Services.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Windows.Forms.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.Linq.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Web.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\FlashControlV71.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\stdole.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\ShockwaveFlashObjects.dll
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+E:\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.CSharp.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Deployment.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Drawing.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Web.Services.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Windows.Forms.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.Linq.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\EnvDTE.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\VSLangProj.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\VsWebSite.Interop.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\EnvDTE80.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\FlashControlV71.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\stdole.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.Tinh Tien Nuoc.exe.config
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmHistory.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+C:\Users\trann\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.CSharp.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.DataSetExtensions.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Data.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Deployment.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Drawing.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Web.Services.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Windows.Forms.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\System.Xml.Linq.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\FlashControlV71.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\stdole.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\ShockwaveFlashObjects.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmHistory.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Shared.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmHistory.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Shared.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Microsoft.CSharp.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Data.DataSetExtensions.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Data.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Deployment.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Drawing.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Web.Services.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Windows.Forms.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Xml.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Xml.Linq.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\FlashControlV71.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\stdole.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\ShockwaveFlashObjects.dll
+E:\OneDrive\Dropbox\Cap nuoc\Work\Projects\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe.config
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.exe
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.pdb
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.exe
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Tinh Tien Nuoc.pdb
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Microsoft.CSharp.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Data.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Deployment.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Drawing.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Web.Services.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Windows.Forms.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Xml.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\System.Xml.Linq.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\FlashControlV71.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\stdole.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csprojResolveAssemblyReference.cache
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmHistory.resources
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.frmTinhTienNuoc.resources
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh_Tien_Nuoc.Properties.Resources.resources
+C:\Users\trann\OneDrive\Desktop\Tinh Tien Nuoc 10 percent PBVMT\Tinh Tien Nuoc\obj\Debug\Tinh Tien Nuoc.csproj.GenerateResource.Cache
